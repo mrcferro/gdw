@@ -1,6 +1,6 @@
 <h1>Geospatial Data Warehouse</h1>
 
-Directories:
+Queries used in performance evaluation. Directories:
 
 <h4>dgdw-01</h4>
 Queries of the paper "Document-Oriented Geospatial Data Warehouse: An Experimental Evaluation of SOLAP Queries"
